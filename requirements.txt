@@ -1,0 +1,8 @@
+traitlets>=4.3.1
+ipython
+pynput
+pandas
+matplotlib
+seaborn
+vdom
+jupyterlab_launcher>=0.5.0
